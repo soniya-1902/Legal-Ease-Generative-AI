@@ -1,0 +1,8 @@
+[
+  "tests/test_api.py::test_export_docx",
+  "tests/test_api.py::test_export_pdf",
+  "tests/test_api.py::test_export_txt",
+  "tests/test_api.py::test_generate",
+  "tests/test_api.py::test_health",
+  "tests/test_api.py::test_root"
+]
